@@ -24,8 +24,10 @@
 </ul>
 
 <h4>*** POLÍGONOS ***</h4>
+</br>
 O projeto conta com três modelos, sendo que um deles é uma malha unificada para diminuir a quantidade de Draw Calls (uma malha unificada faz uma chamada para todas, o que aumenta a performance de renderização).
 Abaixo vou colocar a quantidade de polígonos de cada prop/asset.
+</br>
 <ul>
  <li> Amostra DNA: 4.436 tris </li>
  <li> Mesa Alquimia COMPLETA: 5k tris </li>
@@ -42,8 +44,9 @@ Abaixo vou colocar a quantidade de polígonos de cada prop/asset.
 </ul>
 
 <h4>*** TEXTURAS ***</h4>
+</br>
 As texturas foram feitas utilizando o Figma e o Blender. Texturas do DNA e do Segurador de proveta foram feitas de forma procedural e depois trabsformadas em arquivo. 
 Utilizei da técnica de Normal Mapping e Height Mapping para alguns objetos.
 Além disso foi feito do uso da técnica de Atlas, onde varias malhas e objetos partilham de uma mesma textura e mateiral, para diminuir a quantidade de Draw Calls.
-
+</br>
 As texturas são todas em 'power of two', para a Unity Engine conseguir comprimir seu tamanho com o UNorm.
