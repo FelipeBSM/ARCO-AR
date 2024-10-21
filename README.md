@@ -1,4 +1,4 @@
-<h1><b>REPOSITÓRIO PARA O O TESTE DA ARCO EDUCAÇÃO</b></h1>
+<h1><b>REPOSITÓRIO PARA O TESTE DA ARCO EDUCAÇÃO</b></h1>
 
 <h2>*** INSTRUÇÕES ***</h2>
 <ul>
@@ -19,6 +19,6 @@
 
 <h2>*** VÍDEOS ***</h2>
 <ul>
- <li> VÍDEO 01: EXECUTANDO: </li>
+ <li> VÍDEO 01: EXECUTANDO:<a>https://drive.google.com/file/d/1NpMa4DzoqQnhiNmDeWT2aIgMYq6nh_Ct/view?usp=sharing</a></li>
  <li> VÍDEO 02: EXPLICAÇÕES: </li>
 </ul>
