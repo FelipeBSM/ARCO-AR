@@ -19,7 +19,7 @@
 
 <h4>*** VÍDEOS ***</h4>
 <ul>
- <li> VÍDEO 01: EXECUTANDO: <a>https://drive.google.com/file/d/1NpMa4DzoqQnhiNmDeWT2aIgMYq6nh_Ct/view?usp=sharing</a> </li>
+ <li> VÍDEO 01: EXECUTANDO: https://drive.google.com/file/d/1NpMa4DzoqQnhiNmDeWT2aIgMYq6nh_Ct/view?usp=sharing</li>
  <li> VÍDEO 02: EXPLICAÇÕES: https://drive.google.com/file/d/1BnhmNYtQUGDOQRODoNt2SCl--BmeVB0G/view?usp=sharing</li>
 </ul>
 
